@@ -6,6 +6,7 @@ Uploaded code as a bas file;
 Module2 VBA challenge codeFINAL
 
 extensiverun time for full Multiple_year_stock_data file
+I started running the code at 10pm on 1/9 and it is still running as of 8am 1/10.  assingment without screenshots
 
 full code:
 Sub VBA_challenge()
