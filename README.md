@@ -1,5 +1,10 @@
-# VBA--challenge
-week 2 challenge
+# VBA- Stock Market analysis
+### Overview
+In this assigment, used VBA to analysis stock market data.
+
+### Technologies used in this project: 
+* VBA
+* Excel
 
 complete code creation for assignment.
 Uploaded code as a bas file; 
